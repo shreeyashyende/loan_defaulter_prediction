@@ -1,6 +1,6 @@
 # Loan Defaulter Prediction
 
-### JUPYTER NOTEBOOK APPLICATION 
+### PREFERRED ENVIRONMENT --> JUPYTER NOTEBOOK 
 
 ### Decision Trees
 The idea of a decision tree is to divide the data set into smaller data sets based on the descriptive features until you reach a small enough set that contains data points that fall under one label.
