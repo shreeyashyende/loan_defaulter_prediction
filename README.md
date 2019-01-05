@@ -1,4 +1,4 @@
-# loan_defaulter_prediction
+# Loan Defaulter Prediction
 
 ### JUPYTER NOTEBOOK APPLICATION 
 
